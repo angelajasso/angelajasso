@@ -1,6 +1,6 @@
 # 👋Hi, I'm Angela Jasso
 
-![angelajasso frontend](/angelajasso/img/portada.png)
+![angelajasso frontend](/img/portada.png)
 
 ✨A passionate frontend developer from México 🇲🇽 Welcome to my corner on GitHub.✨
 
