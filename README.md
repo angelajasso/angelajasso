@@ -2,7 +2,8 @@
 
 ![angelajasso frontend](/img/portada.png)
 
-✨A passionate frontend developer from México 🇲🇽 Welcome to my corner on GitHub.✨
+### ✨A passionate frontend developer from México 🇲🇽 
+### Welcome to my corner on GitHub.✨
 
 ## Skills
 
@@ -11,7 +12,7 @@
 
 ## GitHub Statistics
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?angelajasso=angelajasso&show_icons=true&hide_title=true)
+![angelajasso's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelajasso&show_icons=true&bg_color=00000000)
 
 ## Contact
 
