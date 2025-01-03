@@ -4,21 +4,22 @@
 
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<b>About me</b></h2>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-
 <p>
 I am a computer science student, currently in the final years of my degree. I am expanding my knowledge in both web development and Blockchain tecnology, and I am looking for a job as a software developer in a company. I love learning and building something new, productive, innovative and creative.
-    <ul>
-        <li>🌱 I’m currently learning ...</li>
-        <ul>
-            <li>Solidity</li>
-            <li>Bitcoin</li>
-        </ul>
-        <li>👯 I’m looking forward to collaborate on open source projects.</li>
-        <li>✔ Ask me about anything, I am happy to help</li>
-        <li>Outside of technology, 💜I love music, 🎻playing the violin, and 📖 reading books.</li>
-    </ul>
 </p>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+<ul>
+    <li>🌱 I’m currently learning ...</li>
+    <ul>
+        <li>Solidity</li>
+        <li>Bitcoin</li>
+    </ul>
+    <li>👯 I’m looking forward to collaborate on open source projects.</li>
+    <li>✔ Ask me about anything, I am happy to help</li>
+    <li>Outside of technology, 💜I love music, 🎻playing the violin, and 📖 reading books.</li>
+</ul>
 
 <h2><b>My Skills Include</b></h2>
 
