@@ -69,4 +69,4 @@ I am a computer science student, currently in the final years of my degree. I am
 <h2><b>Github stats</b></h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=angelajasso&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/angelajasso)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=angelajasso&theme=material-palenight)](https://github.com/angelajasso)
+
