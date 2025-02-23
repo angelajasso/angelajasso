@@ -1,21 +1,17 @@
 <h1 align="center"><b>Hi , I'm Angela Jasso </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align="center"><b>✨A passionate Blockchain developer✨</b></h2>
+<h2 align="center"><b>✨Web3 & Software Development Enthusiast ✨</b></h2>
 
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<b>About me</b></h2>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 <p>
-I am a computer science student, currently in the final years of my degree. I am expanding my knowledge in both web development and Blockchain tecnology, and I am looking for a job as a software developer in a company. I love learning and building something new, productive, innovative and creative.
+I am a software and networks student. I am expanding my knowledge in both web development and Blockchain tecnology, and I am looking for a job as a software developer in a company. I love learning and building something new, productive, innovative and creative.
 </p>
 
 <ul>
-    <li>🌱 I’m currently learning ...</li>
-    <ul>
-        <li>Solidity</li>
-        <li>Bitcoin</li>
-    </ul>
+    <li>🌱 I'm Currently improving my programming skills before returning to Solidity and smart contracts.</li>
     <li>👯 I’m looking forward to collaborate on open source projects.</li>
     <li>✔ Ask me about anything, I am happy to help</li>
     <li>Outside of technology, 💜I love music, 🎻playing the violin, and 📖 reading books.</li>
@@ -54,6 +50,7 @@ I am a computer science student, currently in the final years of my degree. I am
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">   
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <!--
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
