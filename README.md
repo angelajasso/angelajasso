@@ -46,6 +46,9 @@ I am a software and networks student. I am expanding my knowledge in both web de
 <a href= "https://www.linkedin.com/in/angelajasso/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href= "https://www.instagram.com/angelajasso.dev/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 
 <h2><b>Github stats</b></h2> 
 
