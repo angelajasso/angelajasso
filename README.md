@@ -29,7 +29,6 @@ I am a software and networks student. I am expanding my knowledge in both web de
 
 <h3> Frameworks and Libraries </h3>
 <span> 
-  <img src= "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
 </span>
 
