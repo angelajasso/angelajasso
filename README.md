@@ -45,8 +45,3 @@ I am a software and networks student. I am expanding my knowledge in both web de
 <a href= "https://www.linkedin.com/in/angelajasso/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-
-<h2><b>Github stats</b></h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=angelajasso&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/angelajasso)
