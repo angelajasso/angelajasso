@@ -1,19 +1,19 @@
 <h1 align="center">✨ Angela Jasso</h1>
 
 <p align="center">
-  💻 Web Developer • ⚡ Blockchain
+  💻 Software Developer • 🌐 Web Development
 </p>
 
 <p align="center">
-  <em>Designing systems. Understanding the machine.</em>
+  <em>Building software. Solving real-world problems.</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-JavaScript_Internals-0c124f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software_Development-0c124f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mindset-System_Thinking-989cb6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build-Clean_Code-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Real_World_Projects-black?style=for-the-badge" />
 </p>
 
 ---
@@ -23,40 +23,43 @@
   <b> About Me</b>
 </h2>
 
-I don’t just write code — I study how it runs.
+Software Developer focused on web development and technology solutions for small businesses.
 
-- 🔬 Deep focus: **Execution Context, Scope, Hoisting**
-- ⚙️ Thinking in **systems, not snippets**
-- 🎯 Goal: Become a **high-level software engineer**
-- ⚡ Currently exploring blockchain fundamentals
+- 💻 Building applications with HTML, CSS, JavaScript and Python
+- ⚙️ Interested in software engineering and system thinking
+- 🎵 Exploring interactive experiences through music and technology
+- ⚡ Currently studying blockchain fundamentals and mathematics
+- 🎯 Goal: Become a high-level software engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
 ---
 
-## 📂 Featured Work
+## 📂 Featured Projects
 
-### 🌐 Developer Portfolio
+### 🏷️ QR Label System
 
-A portfolio focused on clarity, structure, and intentional interaction.
+Web-based solution for generating and managing QR labels for a small business.
 
-### 🎻 Violin Experience
+**Tech:** HTML, CSS, JavaScript, Python
 
-Where music meets interaction.
+### 📦 Sales & Inventory System
 
-### ⚙️ JavaScript Deep Practice
+Application designed to manage products, inventory and sales records for small businesses.
 
-Understanding:
+**Tech**: Python
 
-- How code is executed
-- How memory behaves
-- Why things break
+### 🎵 Audio Reactive Visuals
+
+Interactive visual experience that generates real-time graphics synchronized with audio using Web Audio API.
+
+**Tech:** HTML, CSS, JavaScript, Web Audio API
 
 ---
 
@@ -73,18 +76,21 @@ Understanding:
 ## 🎯 Philosophy
 
 ```js
-Execution Context → Memory → Call Stack → Output
+Learn → Build → Improve → Share
 ```
+Software is not only about writing code.
+
+It is about solving problems, designing systems and creating value.
+
 ## 🌐 Connect
 <p align="center"> <a href="https://www.linkedin.com/in/angelajasso/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a> 
 
 ## ⚡ Personal Edge
 
 I combine:
-
-- 🧠 Deep analytical thinking
+- 🧠 Analytical thinking
 - ⚙️ System-level understanding
+- 🚀 Continuous learning
+- 🎵 Creativity through music and technology
 
-→ to build meaningful software
-
-<p align="center"> ⭐ Building every day • Thinking deeper every day </p> ```
+→ to build meaningful software.
