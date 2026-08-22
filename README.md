@@ -66,8 +66,6 @@ Interactive visual experience that generates real-time graphics synchronized wit
 ## 📊 Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=angelajasso&show_icons=true&theme=tokyonight&hide_border=true" />
-
   <img height="180em" src="https://streak-stats.demolab.com?user=angelajasso&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
